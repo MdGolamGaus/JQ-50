@@ -1,0 +1,9 @@
+template
+
+  $(document).ready(function(){
+
+  });
+
+Syntax
+
+    $('selector').event(effect)
